@@ -1,8 +1,7 @@
 .vs/
 x64/
 Debug/
-*.user
-*.suo
-*.ipch
-*.opendb
+*.exe
+*.obj
 *.log
+*.db
